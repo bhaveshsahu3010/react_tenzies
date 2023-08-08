@@ -1,16 +1,21 @@
 body{
-    /* display: flex; */
-    width: 600px;
+
+    display: flex;
+    /* width: 600px;
     height: 600px;
-    padding: 40px;
-    /* flex-direction: column;
-    justify-content: center;
+    padding: 40px; */
+    /* justify-content: center;
     align-items: center; */
     /* flex-shrink: 0; */
     background: #0B2434;
+    justify-content: center;
+    align-items: center;
+
+
 }
 main{
     /* display: flex; */
+    margin-top: 70px;
     width: 520px;
     height: 520px;
     /* justify-content: center;
