@@ -1,5 +1,5 @@
 import React from "react";
-import Die from "./components/die";
+import Die from "./components/Die";
 import "./App.css";
 import Confetti from 'react-confetti'
 
